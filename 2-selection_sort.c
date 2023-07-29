@@ -23,6 +23,7 @@ void selection_sort(int *array, size_t size)
 		}
 	}
 }
+
 /**
  * swap - swaps two numbers
  * @val1 : First no
